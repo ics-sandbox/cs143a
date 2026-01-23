@@ -4,7 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 import sys
 
-from kernel import Kernel
+from pj1.kernel import Kernel
 
 MICRO_S = int
 PID = int

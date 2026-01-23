@@ -10,7 +10,7 @@
         },
         "PID 3": {
             "turn_around_time": "560ms",
-            "waiting_time": "260ms"
+            "waiting_time": "258ms"
         },
         "Average": {
             "turn_around_time": "560ms",

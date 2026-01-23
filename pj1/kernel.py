@@ -1,6 +1,6 @@
 ### Fill in the following information before submitting
 # Group id: GroupID
-# Members: Gwanyong Park, Raymond Chen, Hans LastName
+# Members: Gwanyong Park, Raymond Chen, Kuan-Han Lu
 
 from collections import deque
 
